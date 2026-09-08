@@ -3,6 +3,7 @@
 ## 📌 Project Overview
 
 This project focused on the resilience of critical business services and the technology supporting them across data centers, infrastructure platforms and external providers.
+
 I worked across infrastructure, cybersecurity, application, business continuity and provider teams. My role combined technical project management with active involvement in architecture, recovery, cybersecurity and technology risk discussions.
 
 ---
@@ -10,7 +11,9 @@ I worked across infrastructure, cybersecurity, application, business continuity 
 ## 🎯 Business Challenge
 
 Critical business services depend on complex technology chains across applications, networks, infrastructure, data centers and third-party providers.
+
 The main challenge was to understand these dependencies, identify weak points and determine whether existing redundancy, failover and recovery concepts were sufficient for critical services.
+
 Cybersecurity incidents and DORA requirements were also considered as part of the overall resilience assessment.
 
 ---
@@ -18,6 +21,7 @@ Cybersecurity incidents and DORA requirements were also considered as part of th
 ## 🧩 My Role
 
 I managed the project across several technical workstreams and worked closely with subject matter experts from infrastructure, cybersecurity, applications and business continuity.
+
 I was not the engineer implementing the technical solutions myself, but I was actively involved in the technical discussions, challenged assumptions, aligned different expert views and helped translate them into decisions and improvement measures.
 
 ---
@@ -73,7 +77,9 @@ We then compared the technical recovery concepts with business requirements such
 ## 🛡️ Cybersecurity & Technology Risk
 
 Cybersecurity was treated as part of operational resilience rather than as a separate topic.
+
 The discussions included security architecture, IAM, network segmentation, privileged access, cyber recovery and dependencies on shared or external technology services.
+
 Technology risks were assessed based on their potential business impact, current mitigation and remaining exposure.
 
 ---
