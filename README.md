@@ -4,7 +4,9 @@
 
 This project focused on the resilience of critical business services and the technology supporting them across data centers, infrastructure platforms and external providers.
 
-I worked across infrastructure, cybersecurity, application, business continuity and provider teams. My role combined technical project management with active involvement in architecture, recovery, cybersecurity and technology risk discussions.
+I worked across infrastructure, cybersecurity, application, business continuity and provider teams. 
+
+My role combined technical project management with active involvement in architecture, recovery, cybersecurity and technology risk discussions.
 
 ---
 
