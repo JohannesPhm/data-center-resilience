@@ -22,7 +22,7 @@ Cybersecurity incidents and DORA requirements were also considered as part of th
 
 ## 🧩 My Role
 
-I managed the project across several technical workstreams and worked closely with subject matter experts from infrastructure, cybersecurity, applications and business continuity.
+As an IT Risk Officer, I managed the project across several technical workstreams and worked closely with subject matter experts from infrastructure, cybersecurity, applications and business continuity.
 
 I was not the engineer implementing the technical solutions myself, but I was actively involved in the technical discussions, challenged assumptions, aligned different expert views and helped translate them into decisions and improvement measures.
 
@@ -90,11 +90,11 @@ Technology risks were assessed based on their potential business impact, current
 
 The project was performed in a regulated financial services environment. DORA requirements were considered particularly in relation to:
 
-- ICT Business Continuity And Disaster Recovery
-- Critical ICT Services
-- Resilience Testing
-- ICT Third-Party Providers
-- Concentration And Dependency Risks
+- ICT business continuity and disaster recovery
+- Critical ICT services
+- Resilience testing
+- ICT thirdparty providers
+- Concentration and dependency risks
 
 I worked with the technical teams to translate these requirements into practical resilience and recovery considerations.
 
